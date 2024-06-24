@@ -1,0 +1,88 @@
+﻿@model IEnumerable<OssecAssignment.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<script>
+    console.log('authenticated: ', localStorage.getItem('authenticated'));
+    var isAuthenticated = localStorage.getItem('authenticated');
+
+    if (isAuthenticated === 'false' || isAuthenticated === null) {
+        window.alert('You are not authorized to access this page. Please login first.');
+        window.location.href = '/Users';
+    }
+</script>
+
+<h1>All Products</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-link" style="text-decoration:none">Create New</a>
+</p>
+<p>
+    <span id="loggedInUserEmail" class="nav-link text-dark" style="display:none"></span>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Price)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Stock)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Price)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Stock)
+                </td>
+                <td>
+                
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning">Edit</a> 
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Details</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="delete-link btn btn-danger" style="display: none;">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        // Retrieve email from session storage (or local storage if used)
+        var userEmail = localStorage.getItem('email');
+
+        // Update HTML to show logged-in user's email
+        if (userEmail) {
+            document.getElementById('loggedInUserEmail').textContent = userEmail;
+        }
+
+        // Conditionally show delete links if the email is admin@gmail.com
+        if (userEmail === "admin@gmail.com") {
+            var deleteLinks = document.querySelectorAll('.delete-link');
+            deleteLinks.forEach(function (link) {
+                link.style.display = 'inline';
+            });
+        }
+    </script>
+}

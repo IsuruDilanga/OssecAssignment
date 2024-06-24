@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OSSEC\\Assignment\\OssecAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\data\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\views\\users\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|d:\\ossec\\assignment\\ossecassignment\\ossecassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D6E3786-226B-47E6-A800-D77CA2491462}|OssecAssignment\\OssecAssignment.csproj|solutionrelative:ossecassignment\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "OssecAssignment\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "OssecAssignment\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T13:32:22.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "OssecAssignment\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "OssecAssignment\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAowM0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T13:03:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "OssecAssignment\\Views\\Users\\Index.cshtml",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "OssecAssignment\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:59:13.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Users\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OssecAssignment\\Views\\Users\\Delete.cshtml",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Users\\Delete.cshtml",
+              "RelativeToolTip": "OssecAssignment\\Views\\Users\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:10:43.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "OssecAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "OssecAssignment\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:41:39.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "OssecAssignment\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "OssecAssignment\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-24T12:17:27.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "OssecAssignment\\Models\\Product.cs",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Models\\Product.cs",
+              "RelativeToolTip": "OssecAssignment\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:54:15.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductContext.cs",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Data\\ProductContext.cs",
+              "RelativeDocumentMoniker": "OssecAssignment\\Data\\ProductContext.cs",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Data\\ProductContext.cs",
+              "RelativeToolTip": "OssecAssignment\\Data\\ProductContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T15:42:54.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Models\\User.cs",
+              "RelativeDocumentMoniker": "OssecAssignment\\Models\\User.cs",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Models\\User.cs",
+              "RelativeToolTip": "OssecAssignment\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:42:50.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OssecAssignment\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OssecAssignment\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:05:18.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Data\\UserContext.cs",
+              "RelativeDocumentMoniker": "OssecAssignment\\Data\\UserContext.cs",
+              "ToolTip": "D:\\OSSEC\\Assignment\\OssecAssignment\\OssecAssignment\\Data\\UserContext.cs",
+              "RelativeToolTip": "OssecAssignment\\Data\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:42:33.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

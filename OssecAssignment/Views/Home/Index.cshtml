@@ -1,0 +1,54 @@
+﻿@model OssecAssignment.Models.User
+
+@{
+    ViewData["Title"] = "Home Page";
+    var users = ViewBag.Users as IEnumerable<OssecAssignment.Models.User>;
+    var email = TempData["Email"]?.ToString();
+    var isAuthenticated = TempData["Authenticated"]?.ToString();
+
+    if (isAuthenticated == null)
+    {
+        isAuthenticated = "False";
+    }
+}
+
+
+<div class="text-center">
+    <h1 class="display-4">Welcome OSSEC Assignment</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<script>
+    // Check if authentication status is set and set local storage accordingly
+    var isAuthenticated = '@isAuthenticated';
+    var email = '@email';
+
+    @*localStorage.setItem('email', email);
+
+        console.log("email: ", email);
+        if (email != null && email != '') {
+        localStorage.setItem('authenticatesxd', 'true');
+        }*@
+
+
+
+    if (isAuthenticated === 'True') {
+        localStorage.setItem('email', email);
+        localStorage.setItem('authenticated', 'true');
+    } 
+
+    setTimeout(() => {
+        if (email == null) {
+            if (isAuthenticated === 'False') {
+                window.alert('You are not authorized to access this page. Please login first.');
+                window.location.href = '/Users';
+            }
+        }
+    }, 2000);
+
+   
+    
+
+</script>
+
+
